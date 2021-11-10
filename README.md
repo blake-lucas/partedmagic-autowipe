@@ -40,3 +40,8 @@ Date: 11-09-2021
 #Data Backup (i.e., if data was backed up, and if so, where): 
 
 In the same log folder should be a diskverifier-current-date-disk-serialnumber.log, nwipe-current-date.log, and tuxnukem-current-date.log. These files should also be backed up for future reference.
+
+# Open Source Licenses
+* DISKNUKEM: [ISC License](https://github.com/tslight/disknukem)
+* Disk Verifier: [GNU General Public License version 3.0](https://www.hamishmb.com/html/diskverifier.php#:~:text=however%20it%20is%20still%20open-source%20and%20released%20under%20the%20GNU%20GPLv3)
+* dcfldd: [GNU General Public License version 2.0](https://sourceforge.net/projects/dcfldd/)
